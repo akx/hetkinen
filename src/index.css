@@ -1,0 +1,16 @@
+* {
+
+  font-size: 18pt;
+  font-family: "comic sans ms", -apple-system, BlinkMacSystemFont, sans-serif;
+}
+body {
+  text-align: center;
+}
+
+button {
+  padding: 0.5rem;
+  margin: 0.1rem;
+  background: rebeccapurple;
+  border: thick solid thistle;
+  color: thistle;
+}
